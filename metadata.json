@@ -1,0 +1,5 @@
+{
+  "name": "IEEE P3394 Working Group Portal",
+  "description": "A collaborative frontend interface for the IEEE P3394 working group to manage AI standard discussions, agendas, and schedules.",
+  "requestFramePermissions": []
+}
